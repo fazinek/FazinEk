@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Ns-AnoNymouS/Ns-AnoNymouS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FazinEk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [<p align="center">
 <img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg">](https://telegram.dog/Ns_AnoNymouS)
 
-## I am [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://telegram.dog/Ns_AnoNymouS)
+## I am [Fazin](https://telegram.dog/Fazinek)
 
 - 🔭 I’m currently working on telegram botz
 
@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: [@Ns_AnoNymouS](https://telegram.dog/Ns_AnoNymouS)(Telegram)
+- 📫 How to reach me: [@Fazinek](https://telegram.dog/Fazinek)(Telegram)
 
-### Available 👇
+### I Am Available 👇
 
-[![Anonymous Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/Ns_AnoNymouS)
+[![Fazin Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/Fazinek)
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ns_AnoNymouS/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fazinek/&title=Profile%20Views)
 
 
 ### Skills 👨‍💻
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 ### Status 📈
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fazinek&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
