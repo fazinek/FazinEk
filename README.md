@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [<p align="center">
-<img src="https://telegra.ph/file/ae03ef1cd86ca2713345f.jpg">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/b103b46cb7517478c376a.jpg">](https://telegram.dog/Ns_AnoNymouS)
 
 ## I am [Fazin](https://telegram.dog/Fazinek)
 
